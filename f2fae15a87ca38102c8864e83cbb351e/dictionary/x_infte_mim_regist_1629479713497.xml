@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Mim Regist 1629479713497" max_length="40" name="x_infte_mim_regist_1629479713497" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Incident Description" label="Incident Description" max_length="43" name="u_incident_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Incident ID CISM" label="Incident ID CISM" max_length="40" name="u_incident_id_cism" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Incident ID Daimler" label="Incident ID Daimler" max_length="40" name="u_incident_id_daimler" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Incident Reported" label="Incident Reported" max_length="416" name="u_incident_reported" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Initial Communication" label="Initial Communication" max_length="40" name="u_initial_communication" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Initial notification KPI" label="Initial notification KPI" max_length="40" name="u_initial_notification_kpi" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MIM confirmation time" label="MIM confirmation time" max_length="40" name="u_mim_confirmation_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Observations remarks" label="Observations remarks" max_length="392" name="u_observations_remarks" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Open Time" label="Open Time" max_length="40" name="u_open_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=P1 Actual Time" label="P1 Actual Time" max_length="87" name="u_p1_actual_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PIR" label="PIR" max_length="40" name="u_pir" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Problem Record CISM" label="Problem Record CISM" max_length="40" name="u_problem_record_cism" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RCA Shared" label="RCA Shared" max_length="72" name="u_rca_shared" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Resolution SLA" label="Resolution SLA " max_length="40" name="u_resolution_sla" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Resolution Time" label="Resolution Time" max_length="139" name="u_resolution_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Resolution time Hrs" label="Resolution time Hrs" max_length="40" name="u_resolution_time_hrs" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Response time" label="Response time" max_length="40" name="u_response_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TAF MIM team observations" label="TAF MIM team observations" max_length="314" name="u_taf_mim_team_observations" type="string"/>
+    </element>
+</database>

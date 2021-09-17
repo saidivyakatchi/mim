@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Workspace" section_id="0e7bc640875a38101f541fc73cbb358e" sys_domain="global" table="x_infte_mim_regist_mim_register_insight" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mim_confirmation_time</element>
+            <position>0</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>23a177bf8752b8101f541fc73cbb35bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_communication</element>
+            <position>1</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>e7a177bf8752b8101f541fc73cbb35bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>response_time_mins</element>
+            <position>2</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>6ba177bf8752b8101f541fc73cbb35bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>response_time_met</element>
+            <position>3</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>eba177bf8752b8101f541fc73cbb35bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pir_submission_date</element>
+            <position>4</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>6fa177bf8752b8101f541fc73cbb35bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mi_incident_rejection_time</element>
+            <position>5</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>efa177bf8752b8101f541fc73cbb35bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>63a177bf8752b8101f541fc73cbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>open_time</element>
+            <position>7</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>e3a177bf8752b8101f541fc73cbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cism_open_time</element>
+            <position>8</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>67a177bf8752b8101f541fc73cbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rca_submission_date</element>
+            <position>9</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>e7a177bf8752b8101f541fc73cbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>observations_remarks</element>
+            <position>10</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>6ba177bf8752b8101f541fc73cbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change_remarks</element>
+            <position>11</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>eba177bf8752b8101f541fc73cbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meeting_link</element>
+            <position>12</position>
+            <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-07 05:06:19</sys_created_on>
+            <sys_id>6fa177bf8752b8101f541fc73cbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workspace" display_value="Workspace" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="Default view">0e7bc640875a38101f541fc73cbb358e</sys_ui_section>
+            <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-07 05:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Workspace</caption>
+            <header>false</header>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>saidivya.katchi@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-26 06:02:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e7bc640875a38101f541fc73cbb358e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_infte_mim_regist_mim_register_insight</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MIM Register" source="x_infte_mim_regist">f2fae15a87ca38102c8864e83cbb351e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Register">f2fae15a87ca38102c8864e83cbb351e</sys_scope>
+            <sys_update_name>sys_ui_section_0e7bc640875a38101f541fc73cbb358e</sys_update_name>
+            <sys_updated_by>saidivya.katchi@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-26 06:02:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

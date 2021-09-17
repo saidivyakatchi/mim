@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_infte_mim_regist_mim_register</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="MIM Register Form Screen">6aece516870e38102c8864e83cbb354e</embedded_screen>
+        <item_view/>
+        <name>MIM Register master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+        <sys_created_on>2021-08-20 17:19:40</sys_created_on>
+        <sys_id>66ece516870e38102c8864e83cbb3553</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MIM Register master_item</sys_name>
+        <sys_package display_value="MIM Register" source="x_infte_mim_regist">f2fae15a87ca38102c8864e83cbb351e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Register">f2fae15a87ca38102c8864e83cbb351e</sys_scope>
+        <sys_update_name>sys_sg_master_item_66ece516870e38102c8864e83cbb3553</sys_update_name>
+        <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+        <sys_updated_on>2021-08-20 17:19:40</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="MIM Register List Screen View Config">56eca516870e38102c8864e83cbb35e9</view_config>
+    </sys_sg_master_item>
+</record_update>

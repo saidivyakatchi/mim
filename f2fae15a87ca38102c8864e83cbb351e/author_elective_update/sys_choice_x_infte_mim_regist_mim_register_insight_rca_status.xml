@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="rca_status" table="x_infte_mim_regist_mim_register_insight" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>rca_status</element>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>saidivya.katchi@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-01 06:40:02</sys_created_on>
+            <sys_id>f19d81c287dab8101f541fc73cbb355e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>rca_status</sys_name>
+            <sys_package display_value="MIM Register" source="x_infte_mim_regist">f2fae15a87ca38102c8864e83cbb351e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Register">f2fae15a87ca38102c8864e83cbb351e</sys_scope>
+            <sys_update_name>sys_choice_x_infte_mim_regist_mim_register_insight_rca_status</sys_update_name>
+            <sys_updated_by>saidivya.katchi@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-01 06:40:02</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rca_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>saidivya.katchi@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-01 06:40:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e8d49ce879ab8101f541fc73cbb3504</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saidivya.katchi@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-01 06:51:37</sys_updated_on>
+            <value>Draft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rca_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In Progress</label>
+            <language>en</language>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>saidivya.katchi@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-01 06:51:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f01f894687dab8101f541fc73cbb3540</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saidivya.katchi@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-01 06:51:54</sys_updated_on>
+            <value>InProgress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rca_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Published</label>
+            <language>en</language>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>saidivya.katchi@infosys.com</sys_created_by>
+            <sys_created_on>2021-09-01 06:52:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c40dd8a87dab8101f541fc73cbb3539</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saidivya.katchi@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-09-01 06:52:49</sys_updated_on>
+            <value>Published</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

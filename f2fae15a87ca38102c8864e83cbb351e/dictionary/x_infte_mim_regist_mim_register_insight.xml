@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="incident" label="MIM Register Insight" max_length="40" name="x_infte_mim_regist_mim_register_insight" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Change remarks" max_length="40" name="change_remarks" type="string"/>
+        <element label="Change Request" max_length="40" name="change_request" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CISM Number" max_length="40" name="cism_number" type="string"/>
+        <element label="CISM OPEN TIME" max_length="40" name="cism_open_time" type="glide_date_time"/>
+        <element label="Configuration Item" max_length="100" name="configuration_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DAI Number" max_length="40" name="dai_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DAI Opened" max_length="40" name="dai_opened" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Emergency Change" max_length="40" name="emergency_change" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Preemptive Notification" max_length="40" name="first_preemptive_notification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Impacted Plants" max_length="40" name="impacted_plants" type="string"/>
+        <element label="Incident ID (CISM) and Priority" max_length="20" name="incident_id_cism" type="string"/>
+        <element label="Incident ID (Daimler SNOW) and Priority" max_length="20" name="incident_id_daimler_snow" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident Impact/Business Impact" max_length="40" name="incident_impact_business_impact" type="string"/>
+        <element label="Incident Reported by" max_length="200" name="incident_reported_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Initial Communication" max_length="40" name="initial_communication" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Lessons Learnt" max_length="2000" name="lessons_learnt" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Meeting Link" max_length="1000" name="meeting_link" type="string"/>
+        <element label="MIM Communicate" max_length="400" name="mim_communicate" type="string"/>
+        <element label="ServiceNow MI creation time" max_length="40" name="mim_confirmation_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="MI Candidate Ticket Number" max_length="40" name="mi_candidate_ticket_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MI Incident Rejection Time" max_length="40" name="mi_incident_rejection_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="MI Status" max_length="40" name="mi_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="MI Potential" sequence="0" value="MI Potential"/>
+                <element inactive_on_update="false" label="MI Rejected" sequence="1" value="MI Rejected"/>
+                <element inactive_on_update="false" label="MI Confirmed" sequence="2" value="MI Confirmed"/>
+                <element inactive_on_update="false" label="MI In Progress" sequence="3" value="MI In Progress"/>
+                <element inactive_on_update="false" label="MI Resolved" sequence="4" value="MI Resolved"/>
+                <element inactive_on_update="false" label="MI Closed" sequence="5" value="MI Closed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="MI Ticket Number" max_length="40" name="mi_ticket_number" type="string"/>
+        <element label="MIM Updates" max_length="4000" name="mi_updates" type="journal_input"/>
+        <element attributes="edge_encryption_enabled=true" label="Observations/remarks" max_length="4000" name="observations_remarks" type="string"/>
+        <element label="OM" max_length="40" name="om" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="On-Hold duration" max_length="40" name="on_hold_duration" type="glide_duration"/>
+        <element label="ServiceNow MI candidate creation time" max_length="40" name="open_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Operating Model" max_length="40" name="operating_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="P1 Created" max_length="40" name="p1_created" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="PIR" max_length="40" name="pir" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="PIR Status" max_length="40" name="pir_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="1" value="Draft"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="InProgress"/>
+                <element inactive_on_update="false" label="Published" sequence="3" value="Published"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="PIR  Submission date" max_length="40" name="pir_submission_date" type="glide_date_time"/>
+        <element label="plant code" max_length="20" name="plant_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Problem" max_length="40" name="problem" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RCA Shared" max_length="40" name="rca_shared" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="RCA Status" max_length="40" name="rca_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="1" value="Draft"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="InProgress"/>
+                <element inactive_on_update="false" label="Published" sequence="3" value="Published"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="RCA Submission Date" max_length="40" name="rca_submission_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Region" max_length="40" name="region" type="string">
+            <choice>
+                <element inactive_on_update="false" label="APAC" value="APAC"/>
+                <element inactive_on_update="false" label="EMEA" value="EMEA"/>
+                <element inactive_on_update="false" label="GLOBAL" value="GLOBAL"/>
+                <element inactive_on_update="false" label="LATAM" value="LATAM"/>
+                <element inactive_on_update="false" label="NAFTA" value="NAFTA"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Regions" max_length="40" name="regions" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Duration" max_length="40" name="resolution_duration" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Met" max_length="40" name="resolution_met" type="boolean"/>
+        <element label="Resolution Time" max_length="40" name="resolution_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Response Time Met" max_length="40" name="response_time_met" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Response time (Mins) " max_length="40" name="response_time_mins" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="cism" label="Source" max_length="40" name="source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CISM" value="cism"/>
+                <element inactive_on_update="false" label="Daimler SNOW" value="daimler_snow"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="40" name="status" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="In Progress"/>
+                <element inactive_on_update="false" label="Resolved" sequence="2" value="Resolved"/>
+                <element inactive_on_update="false" label="Canceled" sequence="3" value="Canceled"/>
+                <element inactive_on_update="false" label="Closed" sequence="4" value="Closed"/>
+            </choice>
+        </element>
+        <element choice="1" label="TAF Scope" max_length="40" name="taf_scope" type="string">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tower" max_length="40" name="tower" type="string">
+            <choice>
+                <element inactive_on_update="false" label="DC" sequence="10" value="DC"/>
+                <element inactive_on_update="false" label="DWP" sequence="20" value="DWP"/>
+                <element inactive_on_update="false" label="Global" sequence="30" value="Global"/>
+                <element inactive_on_update="false" label="NW" sequence="40" value="NW"/>
+                <element inactive_on_update="false" label="SAP" sequence="50" value="SAP"/>
+            </choice>
+        </element>
+    </element>
+</database>

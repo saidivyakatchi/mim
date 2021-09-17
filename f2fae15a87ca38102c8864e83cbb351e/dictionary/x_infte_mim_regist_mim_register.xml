@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Mim Regist Mim Register" max_length="40" name="x_infte_mim_regist_mim_register" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Incident Description" max_length="4000" name="incident_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident ID CISM" max_length="40" name="incident_id_cism" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident ID Daimler" max_length="40" name="incident_id_daimler" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident Reported" max_length="40" name="incident_reported" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Initial Communication" max_length="40" name="initial_communication" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Initial notification KPI" max_length="40" name="initial_notification_kpi" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MIM confirmation time" max_length="40" name="mim_confirmation_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="MIM Incident" max_length="32" name="mim_incident" reference="incident" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Observations remarks" max_length="4000" name="observations_remarks" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Open Time" max_length="40" name="open_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="P1 Actual Time" max_length="87" name="p1_actual_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="PIR" max_length="4000" name="pir" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Problem Record CISM" max_length="40" name="problem_record_cism" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RCA Shared" max_length="2000" name="rca_shared" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution SLA " max_length="40" name="resolution_sla" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Time" max_length="139" name="resolution_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution time Hrs" max_length="40" name="resolution_time_hrs" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Response time" max_length="40" name="response_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Canceled" sequence="0" value="Canceled"/>
+                <element inactive_on_update="false" label="Resolved" sequence="0" value="Resolved"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="TAF MIM team observations" max_length="2000" name="taf_mim_team_observations" type="string"/>
+        <index name="index">
+            <element name="mim_incident"/>
+        </index>
+    </element>
+</database>

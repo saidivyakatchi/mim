@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="region" table="x_infte_mim_regist_mim_register_insight" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sunil.murthy@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-24 15:53:01</sys_created_on>
+            <sys_id>447ffde7874a70102c8864e83cbb3594</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>region</sys_name>
+            <sys_package display_value="MIM Register" source="x_infte_mim_regist">f2fae15a87ca38102c8864e83cbb351e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Register">f2fae15a87ca38102c8864e83cbb351e</sys_scope>
+            <sys_update_name>sys_choice_x_infte_mim_regist_mim_register_insight_region</sys_update_name>
+            <sys_updated_by>sunil.murthy@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-24 15:53:01</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>APAC</label>
+            <language>en</language>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>sunil.murthy@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-24 15:53:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf7ff12b874a70102c8864e83cbb35ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sunil.murthy@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-24 15:53:13</sys_updated_on>
+            <value>APAC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EMEA</label>
+            <language>en</language>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>sunil.murthy@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-24 15:53:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac6ffde7874a70102c8864e83cbb358f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sunil.murthy@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-24 15:53:01</sys_updated_on>
+            <value>EMEA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GLOBAL</label>
+            <language>en</language>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>saidivya.katchi@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-25 07:21:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>130499b7870274102c8864e83cbb35aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>saidivya.katchi@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-25 07:21:56</sys_updated_on>
+            <value>GLOBAL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LATAM</label>
+            <language>en</language>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>sunil.murthy@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-24 15:53:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>778f7d67874a70102c8864e83cbb3509</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sunil.murthy@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-24 15:53:33</sys_updated_on>
+            <value>LATAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NAFTA</label>
+            <language>en</language>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>sunil.murthy@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-24 15:53:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e58fb9e7874a70102c8864e83cbb3593</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sunil.murthy@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-24 15:53:23</sys_updated_on>
+            <value>NAFTA</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="e79c359a870278102c8864e83cbb3571" sys_domain="global" table="x_infte_mim_regist_mim_register_insight" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>e79c359a870278102c8864e83cbb3572</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caller_id</element>
+            <position>1</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>6b9c359a870278102c8864e83cbb3572</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>2</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>eb9c359a870278102c8864e83cbb3572</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <position>3</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>6f9c359a870278102c8864e83cbb3572</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_service</element>
+            <position>4</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>ef9c359a870278102c8864e83cbb3572</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_offering</element>
+            <position>5</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>639c359a870278102c8864e83cbb3573</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>6</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>e39c359a870278102c8864e83cbb3573</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>universal_request</element>
+            <position>7</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>679c359a870278102c8864e83cbb3573</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>route_reason</element>
+            <position>8</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>e79c359a870278102c8864e83cbb3573</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>6b9c359a870278102c8864e83cbb3573</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>10</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>eb9c359a870278102c8864e83cbb3573</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>11</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>6f9c359a870278102c8864e83cbb3573</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hold_reason</element>
+            <position>12</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>ef9c359a870278102c8864e83cbb3573</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>13</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>639c359a870278102c8864e83cbb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>14</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>e39c359a870278102c8864e83cbb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>15</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>679c359a870278102c8864e83cbb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>16</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>e79c359a870278102c8864e83cbb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>17</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>6b9c359a870278102c8864e83cbb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>eb9c359a870278102c8864e83cbb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>19</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>6f9c359a870278102c8864e83cbb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>20</position>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_id>ef9c359a870278102c8864e83cbb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_mim_regist_mim_register_insight" sys_domain="global" view="da257b04c927101091f9f06464832723">e79c359a870278102c8864e83cbb3571</sys_ui_section>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Vinay_Meesala@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-20 18:28:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e79c359a870278102c8864e83cbb3571</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_infte_mim_regist_mim_register_insight</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MIM Register" source="x_infte_mim_regist">f2fae15a87ca38102c8864e83cbb351e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Register">f2fae15a87ca38102c8864e83cbb351e</sys_scope>
+            <sys_update_name>sys_ui_section_e79c359a870278102c8864e83cbb3571</sys_update_name>
+            <sys_updated_by>Vinay_Meesala@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-20 18:28:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">da257b04c927101091f9f06464832723</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

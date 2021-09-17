@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>mi_status</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Auto populate status field based on MI</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }	
+    g_form.clearValue('status', true);
+    var MIS = g_form.getValue('mi_status');
+    if (MIS == 'MI Potential' || MIS == 'MI Confirmed' || MIS == 'MI In Progress') {
+        g_form.setValue('status', 'In Progress');
+    }
+    if (MIS == 'MI Rejected') {
+        g_form.setValue('status', 'Canceled');
+    }
+    if (MIS == 'MI Resolved') {
+        g_form.setValue('status', 'Resolved');
+    }
+    if (MIS == 'MI Closed') {
+        g_form.setValue('status', 'Closed');
+    }
+	if (newValue == 'MI Potential' && g_form.getValue('meeting_link') == '')
+	{
+		alert("Please share the meeting invite in the column: Meeting Link");
+    }
+   if (oldValue == 'MI Potential' && newValue == 'MI Unqualified' && g_form.getValue('meeting_link') == '')
+	{
+		alert("Please share the meeting invite in the column: Meeting Link");
+    }
+}
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>sundeep.2108721@infosys.com</sys_created_by>
+        <sys_created_on>2021-08-27 09:15:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c6d7b988716f4102c8864e83cbb353c</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Auto populate status field based on MI</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MIM Register" source="x_infte_mim_regist">f2fae15a87ca38102c8864e83cbb351e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Register">f2fae15a87ca38102c8864e83cbb351e</sys_scope>
+        <sys_update_name>sys_script_client_0c6d7b988716f4102c8864e83cbb353c</sys_update_name>
+        <sys_updated_by>sundeep.2108721@infosys.com</sys_updated_by>
+        <sys_updated_on>2021-09-01 13:43:01</sys_updated_on>
+        <table>x_infte_mim_regist_mim_register_insight</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

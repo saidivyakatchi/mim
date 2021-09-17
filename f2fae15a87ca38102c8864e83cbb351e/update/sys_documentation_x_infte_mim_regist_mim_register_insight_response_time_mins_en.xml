@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="response_time_mins" label="Response time (Mins) " language="en" table="x_infte_mim_regist_mim_register_insight">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>response_time_mins</element>
+            <help/>
+            <hint/>
+            <label>Response time (Mins) </label>
+            <language>en</language>
+            <name>x_infte_mim_regist_mim_register_insight</name>
+            <plural>Response time (Mins) s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>saidivya.katchi@infosys.com</sys_created_by>
+            <sys_created_on>2021-08-25 07:58:23</sys_created_on>
+            <sys_id>856c51bb878274102c8864e83cbb35e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Response time (Mins)</sys_name>
+            <sys_package display_value="MIM Register" source="x_infte_mim_regist">f2fae15a87ca38102c8864e83cbb351e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Register">f2fae15a87ca38102c8864e83cbb351e</sys_scope>
+            <sys_update_name>sys_documentation_x_infte_mim_regist_mim_register_insight_response_time_mins_en</sys_update_name>
+            <sys_updated_by>saidivya.katchi@infosys.com</sys_updated_by>
+            <sys_updated_on>2021-08-25 07:58:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
